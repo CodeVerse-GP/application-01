@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This application was created as a part of learning react.
+This application was created as a part of learning react
 
 ## Available Scripts
 
